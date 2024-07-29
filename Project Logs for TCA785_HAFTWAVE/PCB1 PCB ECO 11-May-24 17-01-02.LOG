@@ -1,0 +1,343 @@
+Removed Pin From Net: NetName=GND Pin=C4-1
+Removed Pin From Net: NetName=+15VDC Pin=C4-2
+Removed Pin From Net: NetName=GND Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=NetJP11_1 Pin=JP11-1
+Removed Pin From Net: NetName=NetD3_1 Pin=R8-1
+Removed Pin From Net: NetName=NetD5_1 Pin=R8-2
+Removed Pin From Net: NetName=+15VDC Pin=R9-1
+Removed Pin From Net: NetName=+15VDC Pin=R10-2
+Removed Pin From Net: NetName=NetD7_1 Pin=R12-1
+Removed Pin From Net: NetName=GND Pin=R14-1
+Removed Pin From Net: NetName=NetJP6_1 Pin=R14-2
+Removed Pin From Net: NetName=NetD3_1 Pin=R15-1
+Removed Pin From Net: NetName=NetD9_1 Pin=R15-2
+Removed Pin From Net: NetName=+15VDC Pin=R16-1
+Removed Pin From Net: NetName=+15VDC Pin=R17-2
+Removed Pin From Net: NetName=NetD11_1 Pin=R19-1
+Removed Pin From Net: NetName=GND Pin=R21-1
+Removed Pin From Net: NetName=NetJP9_1 Pin=R21-2
+Removed Pin From Net: NetName=NetD3_2 Pin=T1-1
+Removed Pin From Net: NetName=NetD7_1 Pin=T2-1
+Removed Pin From Net: NetName=NetD3_1 Pin=T2-2
+Removed Pin From Net: NetName=NetJP11_1 Pin=T3-1
+Removed Pin From Net: NetName=NetD11_1 Pin=T3-2
+Removed Pin From Net: NetName=NetR13_2 Pin=U3-9
+Removed Pin From Net: NetName=NetJP4_1 Pin=U3-14
+Removed Pin From Net: NetName=NetJP5_1 Pin=U3-15
+Removed Pin From Net: NetName=NetC9_2 Pin=U5-10
+Removed Pin From Net: NetName=NetJP9_2 Pin=U5-11
+Removed Pin From Net: NetName=NetC8_2 Pin=U5-12
+Removed Pin From Net: NetName=NetJP7_1 Pin=U5-14
+Removed Pin From Net: NetName=NetJP8_1 Pin=U5-15
+Removed Pin From Net: NetName=NetR20_1 Pin=VR3-3
+Removed Member From Class: ClassName=TCA785-W Member=C7
+Removed Member From Class: ClassName=POWER-SUPPLY Member=C8
+Removed Member From Class: ClassName=TCA785-W Member=C8
+Removed Member From Class: ClassName=POWER-SUPPLY Member=C9
+Removed Member From Class: ClassName=TCA785-W Member=C9
+Removed Member From Class: ClassName=TCA785-W Member=D8
+Removed Member From Class: ClassName=POWER-SUPPLY Member=D12
+Removed Member From Class: ClassName=TCA785-V Member=D12
+Removed Member From Class: ClassName=TCA785-W Member=JP7
+Removed Member From Class: ClassName=POWER-SUPPLY Member=JP8
+Removed Member From Class: ClassName=TCA785-W Member=JP8
+Removed Member From Class: ClassName=POWER-SUPPLY Member=JP9
+Removed Member From Class: ClassName=TCA785-W Member=R15
+Removed Member From Class: ClassName=POWER-SUPPLY Member=R21
+Removed Member From Class: ClassName=TCA785-V Member=R22
+Removed Member From Class: ClassName=POWER-SUPPLY Member=T1
+Removed Member From Class: ClassName=POWER-SUPPLY Member=T2
+Removed Member From Class: ClassName=POWER-SUPPLY Member=T3
+Change Component Footprint: Designator=JP6 Old Footprint=CON3 New Footprint=PAD Select
+Change Component Footprint: Designator=JP9 Old Footprint=CON3 New Footprint=PAD Select
+Change Component Footprint: Designator=JP7 Old Footprint=PAD Select New Footprint=CON3
+Change Component Comment : Designator=R10 Old Comment=1.2K New Comment=10K
+Change Component Comment : Designator=R17 Old Comment=1.2K New Comment=220K
+Change Component Comment : Designator=R11 Old Comment=1K New Comment=1.2K
+Change Component Comment : Designator=R18 Old Comment=1K New Comment=10K
+Change Component Comment : Designator=R9 Old Comment=10K New Comment=220K
+Change Component Comment : Designator=R16 Old Comment=10K New Comment=220R
+Change Component Comment : Designator=R20 Old Comment=47K New Comment=1K
+Change Component Comment : Designator=R13 Old Comment=47K New Comment=510R
+Change Component Comment : Designator=R15 Old Comment=220K New Comment=47K
+Change Component Comment : Designator=R14 Old Comment=220R New Comment=2.2K
+Change Component Comment : Designator=R21 Old Comment=220R New Comment=510R
+Change Component Comment : Designator=R19 Old Comment=510R New Comment=1.2K
+Change Component Comment : Designator=R12 Old Comment=510R New Comment=1K
+Change Component Comment : Designator=C7 Old Comment=C104 New Comment=C105
+Change Component Comment : Designator=C6 Old Comment=C473 New Comment=C104
+Change Component Comment : Designator=C9 Old Comment=C473 New Comment=C104
+Change Component Comment : Designator=JP7 Old Comment=PAD_Sellect New Comment=VR 10K
+Change Component Comment : Designator=JP6 Old Comment=VR 10K New Comment=PAD_Sellect
+Change Component Comment : Designator=JP9 Old Comment=VR 10K New Comment=PAD_Sellect
+Change Component Designator: OldDesignator=C2 NewDesignator=C4
+Change Component Designator: OldDesignator=C3 NewDesignator=C5
+Change Component Designator: OldDesignator=C10 NewDesignator=C16
+Change Component Designator: OldDesignator=C11 NewDesignator=C17
+Change Component Designator: OldDesignator=JP10 NewDesignator=JP13
+Change Component Designator: OldDesignator=JP11 NewDesignator=JP14
+Change Component Designator: OldDesignator=R6 NewDesignator=R7
+Change Component Designator: OldDesignator=R7 NewDesignator=R8
+Change Component Designator: OldDesignator=R22 NewDesignator=R25
+Change component parameters: Designator = "JP6" ("JP6"); Footprint = "CON3"; UniqueID = "\KIBWVCGF" ("\KIBWVCGF")
+Change component parameters: Designator = "JP7" ("JP7"); Footprint = "PAD Select"; UniqueID = "\BLWQFGPY" ("\BLWQFGPY")
+Change component parameters (AddParameter): Name = "Value"; Value = "Connector 3"; VariantName = "[No Variations]"
+Change component parameters: Designator = "JP9" ("JP9"); Footprint = "CON3"; UniqueID = "\MIQMUDRN" ("\MIQMUDRN")
+Added Component: Designator=C2(CN2-O)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CN2-O)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=C10(CN2-O)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=C11(CN2-O)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=C12(CN2-O)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=C13(CN2-O)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=C14(CN2-O)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=C15(CN2-O)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=C18(CAP-POLY-25mm)
+Added Component: Designator=F1(Fuse)
+Add component (AddParameter): Name = "Designed by"; Value = "VanDungEvn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Fuse"; VariantName = "[No Variations]"
+Added Component: Designator=F2(Fuse)
+Add component (AddParameter): Name = "Designed by"; Value = "VanDungEvn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Fuse"; VariantName = "[No Variations]"
+Added Component: Designator=F3(Fuse)
+Add component (AddParameter): Name = "Designed by"; Value = "VanDungEvn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Fuse"; VariantName = "[No Variations]"
+Added Component: Designator=JP10(PAD Select)
+Added Component: Designator=JP11(CON3)
+Add component (AddParameter): Name = "Value"; Value = "Connector 3"; VariantName = "[No Variations]"
+Added Component: Designator=JP12(PAD Select)
+Added Component: Designator=R6(R1/4W)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R22(R1/4W)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R23(R1/4W)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R24(R1/4W)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=TP1(PW-JP)
+Added Component: Designator=TP2(PW-JP)
+Added Component: Designator=TP3(PW-JP)
+Added Component: Designator=TP4(PW-JP)
+Added Component: Designator=TP5(PW-JP)
+Added Component: Designator=TP6(PW-JP)
+Added Pin To Net: NetName=+15VDC Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=+15VDC Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=+15VDC Pin=C11-2
+Added Pin To Net: NetName=+15VDC Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=NetD3_2 Pin=C18-2
+Added Pin To Net: NetName=NetD3_1 Pin=F1-2
+Added Pin To Net: NetName=NetD3_1 Pin=F1-2
+Added Pin To Net: NetName=NetD7_1 Pin=F2-2
+Added Pin To Net: NetName=NetD7_1 Pin=F2-2
+Added Pin To Net: NetName=NetD11_1 Pin=F3-2
+Added Pin To Net: NetName=NetD11_1 Pin=F3-2
+Added Pin To Net: NetName=GND Pin=JP4-2
+Added Pin To Net: NetName=NetC8_2 Pin=JP7-2
+Added Pin To Net: NetName=GND Pin=JP8-2
+Added Pin To Net: NetName=NetJP9_2 Pin=JP10-2
+Added Pin To Net: NetName=NetJP11_1 Pin=JP11-1
+Added Pin To Net: NetName=GND Pin=JP12-2
+Added Pin To Net: NetName=NetJP4_1 Pin=R7-1
+Added Pin To Net: NetName=NetD7_1 Pin=R9-1
+Added Pin To Net: NetName=NetD5_1 Pin=R9-2
+Added Pin To Net: NetName=+15VDC Pin=R10-1
+Added Pin To Net: NetName=+15VDC Pin=R11-2
+Added Pin To Net: NetName=NetD7_1 Pin=R13-1
+Added Pin To Net: NetName=NetC8_2 Pin=R14-2
+Added Pin To Net: NetName=NetJP8_1 Pin=R15-1
+Added Pin To Net: NetName=GND Pin=R16-1
+Added Pin To Net: NetName=NetJP7_1 Pin=R16-2
+Added Pin To Net: NetName=NetD11_1 Pin=R17-1
+Added Pin To Net: NetName=NetD9_1 Pin=R17-2
+Added Pin To Net: NetName=+15VDC Pin=R18-1
+Added Pin To Net: NetName=+15VDC Pin=R19-2
+Added Pin To Net: NetName=NetJP9_2 Pin=R20-2
+Added Pin To Net: NetName=NetD11_1 Pin=R21-1
+Added Pin To Net: NetName=GND Pin=R24-1
+Added Pin To Net: NetName=NetJP11_1 Pin=R24-2
+Added Pin To Net: NetName=NetD3_2 Pin=TP2-1
+Added Pin To Net: NetName=NetC9_2 Pin=U3-12
+Added Pin To Net: NetName=NetJP5_1 Pin=U3-14
+Added Pin To Net: NetName=NetJP6_1 Pin=U3-15
+Added Pin To Net: NetName=NetR13_2 Pin=U4-6
+Added Pin To Net: NetName=NetJP9_1 Pin=U5-14
+Added Pin To Net: NetName=NetR20_1 Pin=U6-1
+Added Pin To Net: NetName=NetJP4_1 Pin=VR1-3
+Added Pin To Net: NetName=NetJP8_1 Pin=VR2-3
+Change Net Name : Old Net Name=AC1 New Net Name=NetDB1_1
+Change Net Name : Old Net Name=N New Net Name=NetDB1_2
+Change Net Name : Old Net Name=NetC2_2 New Net Name=NetC4_2
+Change Net Name : Old Net Name=NetC3_2 New Net Name=NetC5_2
+Change Net Name : Old Net Name=NetC10_1 New Net Name=NetC16_1
+Change Net Name : Old Net Name=NetD3_2 New Net Name=NetC18_2
+Change Net Name : Old Net Name=NetR6_2 New Net Name=NetR7_2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=R6-1
+Added Pin To Net: NetName=NetC2_1 Pin=U1-11
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=JP3-2
+Added Pin To Net: NetName=NetC3_2 Pin=R6-2
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=R14-1
+Added Pin To Net: NetName=NetC7_1 Pin=U3-11
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetC10_2 Pin=U3-10
+Added Net: Name=NetC10_2
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=NetC12_1 Pin=R22-1
+Added Pin To Net: NetName=NetC12_1 Pin=U5-11
+Added Net: Name=NetC12_1
+Added Pin To Net: NetName=NetC13_2 Pin=C13-2
+Added Pin To Net: NetName=NetC13_2 Pin=JP11-2
+Added Pin To Net: NetName=NetC13_2 Pin=R22-2
+Added Net: Name=NetC13_2
+Added Pin To Net: NetName=NetC14_2 Pin=C14-2
+Added Pin To Net: NetName=NetC14_2 Pin=U5-12
+Added Net: Name=NetC14_2
+Added Pin To Net: NetName=NetC15_2 Pin=C15-2
+Added Pin To Net: NetName=NetC15_2 Pin=U5-10
+Added Net: Name=NetC15_2
+Added Pin To Net: NetName=NetC18_1 Pin=C18-1
+Added Pin To Net: NetName=NetC18_1 Pin=TP6-1
+Added Net: Name=NetC18_1
+Added Pin To Net: NetName=NetF1_1 Pin=F1-1
+Added Pin To Net: NetName=NetF1_1 Pin=F1-1
+Added Pin To Net: NetName=NetF1_1 Pin=TP1-1
+Added Net: Name=NetF1_1
+Added Pin To Net: NetName=NetF2_1 Pin=F2-1
+Added Pin To Net: NetName=NetF2_1 Pin=F2-1
+Added Pin To Net: NetName=NetF2_1 Pin=TP3-1
+Added Net: Name=NetF2_1
+Added Pin To Net: NetName=NetF3_1 Pin=F3-1
+Added Pin To Net: NetName=NetF3_1 Pin=F3-1
+Added Pin To Net: NetName=NetF3_1 Pin=TP4-1
+Added Net: Name=NetF3_1
+Added Pin To Net: NetName=NetJP5_2 Pin=JP5-2
+Added Pin To Net: NetName=NetJP5_2 Pin=JP6-2
+Added Pin To Net: NetName=NetJP5_2 Pin=R12-2
+Added Net: Name=NetJP5_2
+Added Pin To Net: NetName=NetJP7_3 Pin=JP7-3
+Added Pin To Net: NetName=NetJP7_3 Pin=R11-1
+Added Net: Name=NetJP7_3
+Added Pin To Net: NetName=NetJP10_1 Pin=JP10-1
+Added Pin To Net: NetName=NetJP10_1 Pin=U5-15
+Added Net: Name=NetJP10_1
+Added Pin To Net: NetName=NetJP11_3 Pin=JP11-3
+Added Pin To Net: NetName=NetJP11_3 Pin=R19-1
+Added Net: Name=NetJP11_3
+Added Pin To Net: NetName=NetJP12_1 Pin=JP12-1
+Added Pin To Net: NetName=NetJP12_1 Pin=R23-1
+Added Pin To Net: NetName=NetJP12_1 Pin=VR3-3
+Added Net: Name=NetJP12_1
+Added Pin To Net: NetName=NetJP14_1 Pin=JP14-1
+Added Pin To Net: NetName=NetJP14_1 Pin=TP5-1
+Added Net: Name=NetJP14_1
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=NetR10_2 Pin=U3-6
+Added Net: Name=NetR10_2
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Pin To Net: NetName=NetR12_1 Pin=U4-1
+Added Net: Name=NetR12_1
+Added Pin To Net: NetName=NetR15_2 Pin=R15-2
+Added Pin To Net: NetName=NetR15_2 Pin=U3-9
+Added Net: Name=NetR15_2
+Added Pin To Net: NetName=NetR18_2 Pin=R18-2
+Added Pin To Net: NetName=NetR18_2 Pin=U5-6
+Added Net: Name=NetR18_2
+Added Pin To Net: NetName=NetR21_2 Pin=R21-2
+Added Pin To Net: NetName=NetR21_2 Pin=U6-6
+Added Net: Name=NetR21_2
+Added Pin To Net: NetName=NetR23_2 Pin=R23-2
+Added Pin To Net: NetName=NetR23_2 Pin=U5-9
+Added Net: Name=NetR23_2
+Added Member To Class: ClassName=TCA785-U Member=Component C1 C104
+Added Member To Class: ClassName=TCA785-U Member=Component C2 C105
+Added Member To Class: ClassName=TCA785-U Member=Component C3 C104
+Added Member To Class: ClassName=TCA785-U Member=Component C4 C104
+Added Member To Class: ClassName=TCA785-U Member=Component C5 C473
+Added Member To Class: ClassName=TCA785-V Member=Component C7 C105
+Added Member To Class: ClassName=TCA785-V Member=Component C8 C104
+Added Member To Class: ClassName=TCA785-V Member=Component C9 C104
+Added Member To Class: ClassName=TCA785-W Member=Component C11 C104
+Added Member To Class: ClassName=TCA785-W Member=Component C12 C105
+Added Member To Class: ClassName=TCA785-W Member=Component C13 C104
+Added Member To Class: ClassName=TCA785-W Member=Component C14 C104
+Added Member To Class: ClassName=TCA785-W Member=Component C15 C473
+Added Member To Class: ClassName=POWER-SUPPLY Member=Component C16 470uF
+Added Member To Class: ClassName=POWER-SUPPLY Member=Component C17 470uF
+Added Member To Class: ClassName=POWER-SUPPLY Member=Component C18 C105 600VDC
+Added Member To Class: ClassName=TCA785-U Member=Component D1 Diode  1N4007
+Added Member To Class: ClassName=TCA785-U Member=Component D2 Diode  1N4007
+Added Member To Class: ClassName=TCA785-U Member=Component D3 SCR
+Added Member To Class: ClassName=TCA785-U Member=Component D4 Diode  1N4007
+Added Member To Class: ClassName=TCA785-V Member=Component D5 Diode  1N4007
+Added Member To Class: ClassName=TCA785-V Member=Component D7 SCR
+Added Member To Class: ClassName=TCA785-W Member=Component D9 Diode  1N4007
+Added Member To Class: ClassName=TCA785-W Member=Component D11 SCR
+Added Member To Class: ClassName=POWER-SUPPLY Member=Component D13 Diode  1N4007
+Added Member To Class: ClassName=POWER-SUPPLY Member=Component DB1 2W10
+Added Member To Class: ClassName=POWER-SUPPLY Member=Component F1 F1A
+Added Member To Class: ClassName=POWER-SUPPLY Member=Component F2 F1A
+Added Member To Class: ClassName=POWER-SUPPLY Member=Component F3 F1A
+Added Member To Class: ClassName=POWER-SUPPLY Member=Component IC1 LM7815
+Added Member To Class: ClassName=TCA785-U Member=Component JP1 PAD_Sellect
+Added Member To Class: ClassName=TCA785-U Member=Component JP2 PAD_Sellect
+Added Member To Class: ClassName=TCA785-U Member=Component JP3 VR 10K
+Added Member To Class: ClassName=TCA785-U Member=Component JP4 PAD_Sellect
+Added Member To Class: ClassName=TCA785-V Member=Component JP7 VR 10K
+Added Member To Class: ClassName=TCA785-V Member=Component JP8 PAD_Sellect
+Added Member To Class: ClassName=TCA785-W Member=Component JP10 PAD_Sellect
+Added Member To Class: ClassName=TCA785-W Member=Component JP11 VR 10K
+Added Member To Class: ClassName=TCA785-W Member=Component JP12 PAD_Sellect
+Added Member To Class: ClassName=POWER-SUPPLY Member=Component JP13 XH2.54
+Added Member To Class: ClassName=POWER-SUPPLY Member=Component JP14 XH2.54
+Added Member To Class: ClassName=POWER-SUPPLY Member=Component LED1 LED
+Added Member To Class: ClassName=TCA785-U Member=Component R1 220K
+Added Member To Class: ClassName=TCA785-U Member=Component R2 10K
+Added Member To Class: ClassName=TCA785-U Member=Component R3 1.2K
+Added Member To Class: ClassName=TCA785-U Member=Component R4 1K
+Added Member To Class: ClassName=TCA785-U Member=Component R5 510R
+Added Member To Class: ClassName=TCA785-U Member=Component R6 2.2K
+Added Member To Class: ClassName=TCA785-U Member=Component R7 47K
+Added Member To Class: ClassName=TCA785-U Member=Component R8 220R
+Added Member To Class: ClassName=TCA785-V Member=Component R10 10K
+Added Member To Class: ClassName=TCA785-V Member=Component R12 1K
+Added Member To Class: ClassName=TCA785-V Member=Component R14 2.2K
+Added Member To Class: ClassName=TCA785-V Member=Component R15 47K
+Added Member To Class: ClassName=TCA785-V Member=Component R16 220R
+Added Member To Class: ClassName=TCA785-W Member=Component R18 10K
+Added Member To Class: ClassName=TCA785-W Member=Component R20 1K
+Added Member To Class: ClassName=TCA785-W Member=Component R22 2.2K
+Added Member To Class: ClassName=TCA785-W Member=Component R23 47K
+Added Member To Class: ClassName=TCA785-W Member=Component R24 220R
+Added Member To Class: ClassName=POWER-SUPPLY Member=Component R25 4.7K
+Added Member To Class: ClassName=POWER-SUPPLY Member=Component TP1 JP1P
+Added Member To Class: ClassName=POWER-SUPPLY Member=Component TP2 JP1P
+Added Member To Class: ClassName=POWER-SUPPLY Member=Component TP3 JP1P
+Added Member To Class: ClassName=POWER-SUPPLY Member=Component TP4 JP1P
+Added Member To Class: ClassName=POWER-SUPPLY Member=Component TP5 JP1P
+Added Member To Class: ClassName=POWER-SUPPLY Member=Component TP6 JP1P
+Added Member To Class: ClassName=TCA785-U Member=Component U1 TCA785Q
+Added Member To Class: ClassName=TCA785-U Member=Component U2 MOC3021
+Added Member To Class: ClassName=TCA785-U Member=Component VR1 20K
+Added Room: Name=POWER-SUPPLY
+Added Room: Name=TCA785-U
+Added Room: Name=TCA785-V
+Added Room: Name=TCA785-W

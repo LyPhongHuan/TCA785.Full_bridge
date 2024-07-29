@@ -1,0 +1,16 @@
+Removed Member From Class: ClassName=TCA785-V Member=C16
+Removed Member From Class: ClassName=TCA785-W Member=C17
+Removed Member From Class: ClassName=TCA785-W Member=JP13
+Removed Member From Class: ClassName=TCA785-W Member=JP14
+Removed Member From Class: ClassName=TCA785-W Member=R25
+Added Member To Class: ClassName=TCA785-U Member=Component C2 C105
+Added Member To Class: ClassName=TCA785-U Member=Component C3 C104
+Added Member To Class: ClassName=TCA785-U Member=Component C4 C104
+Added Member To Class: ClassName=TCA785-U Member=Component C5 C473
+Added Member To Class: ClassName=TCA785-V Member=Component C10 C473
+Added Member To Class: ClassName=TCA785-W Member=Component C11 C104
+Added Member To Class: ClassName=TCA785-W Member=Component JP10 PAD_Sellect
+Added Member To Class: ClassName=TCA785-W Member=Component JP11 VR 10K
+Added Member To Class: ClassName=TCA785-U Member=Component R6 2.2K
+Added Member To Class: ClassName=TCA785-U Member=Component R8 220R
+Added Member To Class: ClassName=TCA785-W Member=Component R22 2.2K

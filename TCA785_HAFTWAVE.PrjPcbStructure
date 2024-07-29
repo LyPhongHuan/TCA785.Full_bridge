@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=POWER-SUPPLY.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=POWER-SUPPLY.SchDoc|FileName=TCA785-U.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=POWER-SUPPLY.SchDoc|FileName=TCA785-V.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=POWER-SUPPLY.SchDoc|FileName=TCA785-W.SchDoc|SheetNumber=3
